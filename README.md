@@ -1,6 +1,6 @@
 ![The San Juan Mountains are beautiful!](/git-cover.png "San Juan Mountains")
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer234&border_radius=5)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jubayer234&border_radius=5&card_width=1000" alt="GitHub Streak" /></a>
 
 ### Welcome to My Github Profile
 
@@ -10,4 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
-
