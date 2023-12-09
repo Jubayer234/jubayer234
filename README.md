@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/git-card.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/git-cover.png "San Juan Mountains")
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer234&border_radius=5)](https://git.io/streak-stats)
 
