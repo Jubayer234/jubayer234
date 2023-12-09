@@ -1,6 +1,6 @@
 ![The San Juan Mountains are beautiful!](/git%20cover.png "San Juan Mountains")
 
-## 📈 Current Stats
+## 📈 Current Streak
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jubayer234&theme=dark&border_radius=5&card_width=800&border=CAB387&stroke=CAB387&ring=CAB387&fire=CAB387&currStreakLabel=CAB387&dates=FFFFFF" alt="GitHub Streak" /></a>
 </div>
