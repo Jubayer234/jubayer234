@@ -13,9 +13,9 @@
 </p>
 
 ## 👀 Current overview
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning and exploring Web Development
 - 🤔 I’m looking for help to learn more and more about web development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 📫 My email address: jubayerahmedtanvi@gmail.com
+- 
+## 📈 Stats
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jubayer234&theme=dark)
